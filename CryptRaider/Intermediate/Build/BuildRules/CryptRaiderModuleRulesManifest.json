@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UdemyCourse_3\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"D:\\UdemyCourse_3\\CryptRaider\\Source\\CryptRaider.Target.cs",
+		"D:\\UdemyCourse_3\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
